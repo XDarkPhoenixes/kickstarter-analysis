@@ -46,20 +46,29 @@ For the Analysis of Outcomes Based on Launch Date, adding the Date Created Conve
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Summer months (May, June, July) have more successful outcomes than Winter Month (November, December, January) for theater.
+
 The numbers of failed outcomes are quite stable around 40 with no significant increase or decrease for theater throughout the year.
 
 - What can you conclude about the Outcomes based on Goals?
+
 There are no Canceled Projects for Plays.
+
 The most successful goal-amount ranges is less than 1000.
 
 - What are some limitations of this dataset?
+
 The increments of goal ranges might be too big to uncover other hiden trends.
+
 There are outliers in the dataset.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Outcomes based on pledged
+
 Outcomes based on Country
+
 Outcomes based on Closing date
 
 
