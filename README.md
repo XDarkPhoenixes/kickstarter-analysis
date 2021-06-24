@@ -6,7 +6,7 @@ Perform analysis on Kickstarter Campaigns for Louise; Analyze data and uncover t
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Using the function: Year(), the corresponding years of the Date Created Conversion Columns were extracted and placed in a separate new column. 
+Using the function: Year( ), the corresponding years of the Date Created Conversion Columns were extracted and placed in a separate new column. 
 
 ![Year Function](https://user-images.githubusercontent.com/84931545/123334379-02056380-d511-11eb-9d9d-5b608a5d5dfb.PNG)
 
@@ -21,15 +21,15 @@ A line chart with markers was created with Months in the x-axis and the number o
 ![Theater_Outcomes _vs_Launch](https://user-images.githubusercontent.com/84931545/123334475-2cefb780-d511-11eb-8faf-bfb70d48835f.png)
 
 ### Analysis of Outcomes Based on Goals
-8 columns and 12 rows were created on a worksheet with their corresponding titles and goal-amount ranges. COUNTIFS() functions were used to filter the desired outcome, goal-amount ranges, and "plays" subcategory from the Kickstarter worksheet and populate the corresponding Number Successful, Number Failed, and Number Canceled columns.
+8 columns and 12 rows were created on a worksheet with their corresponding titles and goal-amount ranges. COUNTIFS( ) functions were used to filter the desired outcome, goal-amount ranges, and "plays" subcategory from the Kickstarter worksheet and populate the corresponding Number Successful, Number Failed, and Number Canceled columns.
 
-#### Sum() Function
-Total Projects is calculated using the SUM() function to add the number of successful, failed, and canceled projects for each row.
+#### Sum( ) Function
+Total Projects is calculated using the SUM( ) function to add the number of successful, failed, and canceled projects for each row.
 
 ![Sum](https://user-images.githubusercontent.com/84931545/123334556-4690ff00-d511-11eb-8d3b-a8db65ddd699.PNG)
 
-#### ROUND() Function
-The ROUND() function was used to populate the Percentage Successful, Percentage Failed, and Percentage Canceled columns. The number for the corresponding outcome was divided by the number of total projects and then times by 100 to get the percentage. The percentage value was rounded to the nearest integer.
+#### ROUND( ) Function
+The ROUND( ) function was used to populate the Percentage Successful, Percentage Failed, and Percentage Canceled columns. The number for the corresponding outcome was divided by the number of total projects and then times by 100 to get the percentage. The percentage value was rounded to the nearest integer.
 
 ![Percentage](https://user-images.githubusercontent.com/84931545/123334585-4db80d00-d511-11eb-94a1-f5910d61b921.PNG)
 
