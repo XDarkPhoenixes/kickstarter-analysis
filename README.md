@@ -68,11 +68,7 @@ There are outliers in the dataset.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Outcomes based on pledged
-
-Outcomes based on Country
-
-Outcomes based on Closing date
+Other possible tables and graphs that one could create include but not limited to: Outcomes based on pledged, Outcomes based on Country, and Outcomes based on Closing date
 
 
 
